@@ -36,9 +36,9 @@ But that is just _part_ of the experience we have with seasons. We also get a ch
 |**Season**|Spring|Summer|Fall|Winter|
 |:-:|:-:|:-:|:-:|:-:|
 |**Weather**|Rain|Rain|Rain/Snow|Snow|
-|<a name="freq">**Frequency**</a>1|4|2|3/1|3|
+|**Frequency**|4|2|3/1|3|
 
-<sup>[1](#freq)</sup>** describes the rarity of the weather event, 3 is high and 1 is low.
+**Frequency** describes the rarity of the weather event, 4 is high and 1 is low.
 
 ### Changes in Foilage
 
