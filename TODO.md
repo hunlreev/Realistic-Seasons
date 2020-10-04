@@ -1,8 +1,8 @@
 ## Completed
 - Get the project created
+- Get the workspace set up and going
 
 ## Work in Progress
-- Get the workspace set up and going
 - Adjust the day-night cycle length as a test
 - Get it working in the game
 
