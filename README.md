@@ -25,7 +25,7 @@ So on the Earth, our seasons change due to the tilt of the planet. This effects 
 
 |**Season**|Spring|Summer|Fall|Winter|
 |:-:|:-:|:-:|:-:|:-:|
-|**Angle**|0°|0°|0°|0°|
+|**Angle**|27°|56°|23°|11°|
 
 ### Changes in Weather
 
@@ -38,7 +38,7 @@ But that is just _part_ of the experience we have with seasons. We also get a ch
 |**Weather**|Rain|Rain|Rain/Snow|Snow|
 |**Frequency**|4|2|3/1|3|
 
-**Frequency** describes the rarity of the weather event, 4 is high and 1 is low.
+Frequency describes the rarity of the weather event, 4 is high and 1 is low.
 
 ### Changes in Foilage
 
