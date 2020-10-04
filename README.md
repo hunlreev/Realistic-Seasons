@@ -12,9 +12,9 @@ The minecraft year (as soon as you spawn into your world) will start off during 
 
 #### Day-Night Cycle Lengths (subject to change)
 
-**Season**|Spring|Summer|Fall|Winter
-**Day Length**|11m|16m|9m|4m
-**Night Length**|9m|4m|11m|16m
+|**Season**|Spring|Summer|Fall|Winter|
+|**Day Length**|11m|16m|9m|4m|
+|**Night Length**|9m|4m|11m|16m|
 
 ### Angle of the Sun
 
@@ -22,8 +22,8 @@ So on the Earth, our seasons change due to the tilt of the planet. This effects 
 
 #### Sun Angle (subject to change)
 
-**Season**|Spring|Summer|Fall|Winter
-**Angle**|0°|0°|0°|0°
+|**Season**|Spring|Summer|Fall|Winter|
+|**Angle**|0°|0°|0°|0°|
 
 ### Changes in Weather
 
@@ -31,9 +31,9 @@ But that is just _part_ of the experience we have with seasons. We also get a ch
 
 #### Weather Effects (subject to change)
 
-**Season**|Spring|Summer|Fall|Winter
-**Weather**|Rain|Rain|Rain/Snow|Snow
-**Frequency[^1]**|4|2|3/1|3
+|**Season**|Spring|Summer|Fall|Winter|
+|**Weather**|Rain|Rain|Rain/Snow|Snow|
+|**Frequency[^1]**|4|2|3/1|3|
 
 [^1]: **Frequency** describes the rarity of the weather event, 3 is high and 1 is low.
 
