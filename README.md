@@ -40,6 +40,6 @@ But that is just _part_ of the experience we have with seasons. We also get a ch
 
 Frequency describes the rarity of the weather event, 4 is high and 1 is low.
 
-### Changes in Foilage
+### Changes in foliage
 
 So we have weather and the changes in the day-night cycle. What else? Well, foilage of the trees and the grass change too! During the spring, leaves will be sparse slowly becoming more apparent and will be bright, as well as the grass. During the summer, trees will display their full leaf collection and the colors will mellow out. During the fall, leaves will fall! The foilage will be vibrant reds, oranges, and purples. The grass will also begin to slowly change color as well. In the winter, everything is dead (except for spruce trees!).
